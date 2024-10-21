@@ -4,11 +4,11 @@ Welcome to my Pygame-based project! This game was developed using the Pygame lib
 
 ## Table of Contents 
 
-- [Overview](#overview)
-- [How to Play](#how-to-play)
-- [Features](#features)
-- [How to Run](#how-to-run)
-- [Credits](#credits)
+- [Overview](#-overview)
+- [How to Play](#-how-to-play)
+- [Features](#-features)
+- [How to Run](#-how-to-run)
+- [Credits](#-credits)
 - [License](#-license)
 
 ## 🎯 Overview
