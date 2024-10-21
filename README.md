@@ -33,7 +33,7 @@ This is a simple 2D game where the player must navigate obstacle blocks to reach
 - **Game Over Screen**: Displays your final score and game over text after crashing.
 - **Fixed Window Size**: The game runs in a fixed window size, disabling resizing for a consistent experience.
 
-## 🛠️ Installation
+## 🔧 Installation
 
 To run the game locally, follow these steps:
 
