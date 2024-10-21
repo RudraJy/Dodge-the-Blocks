@@ -7,7 +7,7 @@ Welcome to my Pygame-based project! This game was developed using the Pygame lib
 - [Overview](#-overview)
 - [How to Play](#-how-to-play)
 - [Features](#-features)
-- [How to Run](#-how-to-run)
+- [Installation](#-installation)
 - [Credits](#-credits)
 - [License](#-license)
 
@@ -33,7 +33,7 @@ This is a simple 2D game where the player must navigate obstacle blocks to reach
 - **Game Over Screen**: Displays your final score and game over text after crashing.
 - **Fixed Window Size**: The game runs in a fixed window size, disabling resizing for a consistent experience.
 
-## 🛠️ How to Run
+## 🛠️ Installation
 
 To run the game locally, follow these steps:
 
